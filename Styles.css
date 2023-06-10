@@ -1,0 +1,29 @@
+/* .studentinfo{
+    width: 500px;
+    border: 1px solid black;
+    margin-left: 20px;
+    border-collapse: collapse;
+}
+#nav{
+    background-color: rgb(95, 245, 87);
+}
+
+.studentinfo td{
+    padding-left: 5px;
+    border-right: 1px solid black;
+   
+}
+.studentinfo th{
+    padding-left: 5px;
+    border-bottom: 1px solid black;
+} */
+
+/* .nav th,td{
+    padding: 50px;
+} */
+.nav th{
+    padding: 4px;
+}
+.nav td{
+    padding: 5px;
+}
